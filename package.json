@@ -7,9 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vuetify": "^3.4.0-beta.1"
   },
   "devDependencies": {
+    "@mdi/font": "^7.3.67",
     "@vue/cli-service": "~5.0.0"
   },
   "browserslist": [

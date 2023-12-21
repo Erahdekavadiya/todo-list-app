@@ -13,9 +13,9 @@ A simple Todo List application built with Vue.js and Vuetify, utilizing IndexedD
 ## Installation
 
 1. Clone the repository:
----
+```
 git clone https://github.com/Erahdekavadiya/todo-list-app
----
+```
 
 2. Navigate to the project directory:
 ```

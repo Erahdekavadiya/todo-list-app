@@ -10,6 +10,19 @@ A simple Todo List application built with Vue.js and Vuetify, utilizing IndexedD
 - Delete todos
 - Search todos by text
 
+---
+
+## [Demo](https://todo-app.erahdekavadiya.in/)
+
+Check out the live demo [here](https://todo-app.erahdekavadiya.in/)
+
+### Demo Login Credentials
+
+- **Username:** demo
+- **Password:** demo@123
+
+---
+
 ## Installation
 
 1. Clone the repository:

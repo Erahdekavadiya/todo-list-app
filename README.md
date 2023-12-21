@@ -14,25 +14,25 @@ A simple Todo List application built with Vue.js and Vuetify, utilizing IndexedD
 
 1. Clone the repository:
 ---
-git clone https://github.com/your-username/vue-todo-list.git
+git clone https://github.com/Erahdekavadiya/todo-list-app
 ---
 
 2. Navigate to the project directory:
----
+```
 cd vue-todo-list
----
+```
 
 3. Install dependencies:
----
+```
 npm install
----
+```
 
 ## Usage
 
 1. Run the development server:
----
+```
 npm run serve
----
+```
 2. Open your browser and visit [http://localhost:8080](http://localhost:8080)
 
 ## Contributing
@@ -60,7 +60,7 @@ For inquiries, collaborations, or project opportunities related to this system o
 
 ## Collaboration and Opportunities
 
-I'm open to collaborations, freelance work, or contributions related to this project or other relevant projects within this domain. Whether it's enhancing this system's features, building similar applications, or exploring new project ideas, I'm excited about meaningful collaborations and opportunities in the field of financial management systems.
+I'm open to collaborations, freelance work, or contributions related to this project or other relevant projects within this domain. Whether it's enhancing this system's features, building similar applications, or exploring new project ideas, I'm excited about meaningful collaborations and opportunities.
 
 Feel free to reach out to me with any proposals, ideas, or inquiries. I'd be thrilled to discuss potential collaborations or contribute to your projects!
 
